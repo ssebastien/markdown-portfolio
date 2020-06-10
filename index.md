@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{!Early bird special](https://photos.app.goo.gl/85491FDDVuXy5NP78}
+{![Early bird special] https://photos.app.goo.gl/85491FDDVuXy5NP78}
 
 <br>
 
